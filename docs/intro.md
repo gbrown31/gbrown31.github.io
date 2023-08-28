@@ -19,3 +19,4 @@ Site build using [mkdocs.org](https://www.mkdocs.org).
 ## Hello
 
     first edit
+    second edit to test branch rules
