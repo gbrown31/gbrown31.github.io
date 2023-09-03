@@ -2,7 +2,7 @@
 
 One day I happened to see a tweet from David Fowler about Leet Code and signed up to the site. It had been a few years since I had looked at Data Structures & Algorithm questions so found it incredibly tough to make any progress beyond the basic array manipulation questions.
 
-I've been dabbling in [LeetCode](https://leetcode.com/) for almost one year, not constantly but I've come back to it every couple of months so I don't completely forget everthing. You can view [my profile](https://leetcode.com/gbrown31/) and view my incredible rank of 468,935. I have no idea if that is any good as I haven't taken up the competitive side of the platform at all. It would be nice if the ranking had some context... I mean there could only be 500,000 users of the site or is this my rank in the global population... who knows?
+I've been dabbling in [LeetCode](https://leetcode.com/) for almost one year now, on and off, not constantly but often enough to ensure I don't completely forget everthing. You can view [my profile](https://leetcode.com/gbrown31/) and view my incredible rank of 468,935. I have no idea if that is any good as I haven't taken up the competitive side of the platform at all. It would be nice if the ranking had some context... I mean there could only be 500,000 users of the site or is this my rank in the global population... who knows?
 
 
 ## Going Premium

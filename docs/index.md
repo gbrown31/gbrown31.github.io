@@ -1,21 +1,7 @@
-# Welcome to MkDocs
+# Adventures in Code
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello! I decided to try out GitHub pages, played around little with Jekyll and GitHub Actions before settling down with MkDocs. I'm not looking for overly fancy design or visuals so [MkDocs](https://www.mkdocs.org/) was perfect for me.
 
-## Commands
+## Introduction
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## Hello
-
-    first edit
+Hello again, my name is Gary. I decided to start making more use of the incredible advances in tooling and technology to document and share code. As I've never published a blog or written about code it is a bit of an adventure for me, hence the name Adventures in Code.
