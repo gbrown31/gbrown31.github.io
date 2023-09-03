@@ -8,4 +8,4 @@ Hello! I decided to try out GitHub pages, played around little with Jekyll and G
 
 ## Introduction
 
-Hello again, my name is Gary. I decided to start making more use of the incredible advances in tooling and technology to document and share code. As I've never published a blob or written about code it is a bit of an adventure, hence the name Adventures in Code.
+Hello again, my name is Gary. I decided to start making more use of the incredible advances in tooling and technology to document and share code. As I've never published a blog or written about code it is a bit of an adventure, hence the name Adventures in Code.
